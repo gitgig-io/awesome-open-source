@@ -10,7 +10,9 @@ A curated list of open source projects by language.
 ## Contributing
 
 - Follow the format of the pages in this repo. See `Elixir` for an example.
+  - `- [Project Name](Project Link) - Short Project Description`
+- Projects must be ordered alphabetically.
 - Each list should be 10-20 projects.
-- Limit to 1 type of project for each list (1 web framework, 1 ORM, etc) per list.
-  - Each project should be the best in it's type. This is somewhat subjective but could mean easiest to use, more feature rich, most popular, etc..
+- Limit to one project of each type in a list (1 web framework, 1 ORM, etc).
+  - Each project should be the best of it's type. This is somewhat subjective but could mean easiest to use, most feature rich, most popular, defacto choice, etc..
 - Fork this project and submit PRs.
