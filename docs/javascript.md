@@ -1,3 +1,33 @@
-# Awesome Open Source - Javascript
+# Awesome Open Source - JavaScript
 
-Coming Soon!
+- [AutoAnimate](https://auto-animate.formkit.com) - Add motion to your apps with a single line of code.
+- [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and Node.js.
+- [Babel (Formerly 6to5)](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime.
+- [baguetteBox.js](https://github.com/feimosi/baguetteBox.js) - Simple and easy to use lightbox script written in pure JavaScript.
+- [Chart.js](https://github.com/chartjs/Chart.js) - Simple yet flexible JavaScript charting for designers & developers.
+- [cropper](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
+- [Docusaurus](https://github.com/facebook/docusaurus) - React-based static site generator by Facebook, ideal for content-centric websites.
+- [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets.
+- [Express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for Node.js.
+- [fancyBox](https://github.com/fancyapps/fancyBox) - A tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.
+- [Gatsby.js](https://github.com/gatsbyjs/gatsby) - React-based static site generator.
+- [Gridsome](https://github.com/gridsome/gridsome) - Vue-powered static site generator.
+- [Hint.css](https://github.com/chinchang/hint.css) - A tooltip library in CSS for your lovely websites.
+- [Husky](https://github.com/typicode/husky) - Git hooks made easy.
+- [Jest](https://github.com/facebook/jest) - Delightful JavaScript testing.
+- [jQuery Popup Overlay](https://github.com/vast-engineering/jquery-popup-overlay) - jQuery plugin for responsive and accessible modal windows and tooltips.
+- [lena.js](https://github.com/davidsonfellipe/lena.js) - A library for image processing with filters and util functions.
+- [Lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance & extras.
+- [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) - Light and responsive lightbox script with focus on performance.
+- [Mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling tool designed to work in an asynchronous environment.
+- [Next.js](https://github.com/vercel/next.js) - The React Framework.
+- [Nodemailer](https://github.com/nodemailer/nodemailer) - Send e-mails with Node.JS – easy as cake!
+- [Pica](https://github.com/nodeca/pica) - High quality image resize (with fast Lanczos filter, implemented in pure JS).
+- [PM2](https://github.com/Unitech/pm2) - Advanced, production process manager for Node.js.
+- [Prettier](https://github.com/prettier/prettier) - An opinionated code formatter.
+- [Puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API.
+- [Socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server).
+- [SweetAlert](https://github.com/t4t5/sweetalert) - An awesome replacement for JavaScript's alert.
+- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+- [Typo.js](https://github.com/cfinke/Typo.js) - A JavaScript spellchecker that uses Hunspell-style dictionaries.
+- [webpack](https://github.com/webpack/webpack) - A bundler for JavaScript and friends. Packs many modules into a few bundled assets.
