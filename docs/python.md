@@ -1,31 +1,43 @@
 # Awesome Open Source - Python
 
+- [Albumentations](https://github.com/albumentations-team/albumentations) - A fast and flexible image augmentation library, designed for enhancing deep learning models.
 - [APScheduler](https://github.com/agronholm/apscheduler) - A lightweight, in-process task scheduler.
 - [Arrow](https://github.com/arrow-py/arrow) - Better dates & times for Python.
 - [Bokeh](https://github.com/bokeh/bokeh) - Interactive web plotting for Python.
+- [CatBoost](https://github.com/catboost/catboost) - A high-performance open-source library for gradient boosting on decision trees, developed by Yandex, with support for both numerical and categorical features.
 - [Crossbar](https://github.com/crossbario/crossbar/) - Open-source Unified Application Router (Websocket & WAMP for Python on Autobahn).
+- [Dask-ML](https://github.com/dask/dask-ml) - A scalable machine learning library that integrates with Dask, enabling parallel and distributed computing for large datasets.
 - [Datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
 - [dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
 - [djedi-cms](http://djedi-cms.org/) - A lightweight but yet powerful Django CMS with plugins, inline editing and performance in mind.
 - [Dramatiq](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
 - [FastAPI Users](https://github.com/fastapi-users/fastapi-users) - Ready-to-use and customizable users management for FastAPI.
 - [Faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
+- [Fastai](https://github.com/fastai/fastai) - A deep learning library that simplifies training fast and accurate neural networks using modern best practices, built on top of PyTorch.
 - [fuzzywuzzy](https://github.com/seatgeek/tchefuzz) - Fuzzy String Matching.
 - [HTTPie](https://github.com/httpie/httpie) - Modern command line HTTP client, user-friendly curl alternative.
+- [Keras](https://github.com/keras-team/keras) - A high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.
+- [mlflow](https://github.com/mlflow/mlflow) - An open-source platform for managing the end-to-end machine learning lifecycle, including experimentation, reproducibility, and deployment.
 - [mrq](https://github.com/pricingassistant/mrq) - Mr. Queue - A distributed worker task queue in Python using Redis & gevent.
+- [Optuna](https://github.com/optuna/optuna) - An automatic hyperparameter optimization software framework, designed for machine learning.
 - [PeachPy](https://github.com/Maratyszcza/PeachPy) - x86-64 assembler embedded in Python. Can be used as inline assembler for Python or as a stand-alone assembler for Windows, Linux, OS X, Native Client and Go.
 - [Pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy.
 - [Peewee](https://github.com/coleifer/peewee) - A small, expressive ORM.
 - [Poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [Pony ORM](https://github.com/ponyorm/pony) - ORM that provides a generator-oriented interface to write database queries.
+- [pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python.
 - [Pydantic](https://github.com/pydantic/pydantic) - Data validation and settings management using Python type annotations.
 - [pyenv](https://github.com/pyenv/pyenv) - Dead simple interactive Python version management.
 - [pyquery](https://github.com/gawel/pyquery) - A jQuery-like library for parsing HTML.
 - [Pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch.
 - [pytesseract](https://github.com/madmaze/pytesseract) - A python wrapper for Tesseract.
+- [PyTorch](https://github.com/pytorch/pytorch) - An open-source machine learning library developed by Facebook's AI Research lab (FAIR) that provides a flexible and easy-to-use interface for building deep learning models.
 - [Rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [Scikit-learn](https://github.com/scikit-learn/scikit-learn) - A simple and efficient tool for data mining and data analysis, built on NumPy, SciPy, and matplotlib.
 - [Streamlit](https://github.com/streamlit/streamlit) - Streamlit lets you create apps for your machine learning projects with simple Python scripts.
+- [TensorFlow](https://github.com/tensorflow/tensorflow) - An end-to-end open-source platform for machine learning developed by Google, with a comprehensive, flexible ecosystem of tools, libraries, and community resources.
 - [TinyDB](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document-oriented database optimized for your happiness.
+- [Transformers](https://github.com/huggingface/transformers) - A library that provides general-purpose architectures for natural language understanding (NLU) and natural language generation (NLG) with over 30 pretrained models.
 - [Typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [watchdog](https://github.com/gorakhargosh/watchdog) - API and shell utilities to monitor file system events.
 - [Whoosh](http://whoosh.readthedocs.io/) - A fast, pure Python search engine library.
