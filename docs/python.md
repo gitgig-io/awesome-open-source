@@ -14,7 +14,7 @@
 - [FastAPI Users](https://github.com/fastapi-users/fastapi-users) - Ready-to-use and customizable users management for FastAPI.
 - [Faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [Fastai](https://github.com/fastai/fastai) - A deep learning library that simplifies training fast and accurate neural networks using modern best practices, built on top of PyTorch.
-- [fuzzywuzzy](https://github.com/seatgeek/tchefuzz) - Fuzzy String Matching.
+- [fuzzywuzzy](https://github.com/seatgeek/thefuzz) - Fuzzy String Matching.
 - [HTTPie](https://github.com/httpie/httpie) - Modern command line HTTP client, user-friendly curl alternative.
 - [Keras](https://github.com/keras-team/keras) - A high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.
 - [mlflow](https://github.com/mlflow/mlflow) - An open-source platform for managing the end-to-end machine learning lifecycle, including experimentation, reproducibility, and deployment.
