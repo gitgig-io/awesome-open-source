@@ -1,3 +1,33 @@
 # Awesome Open Source - Rust
 
-Coming Soon!
+- [actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework with websocket support for Rust.
+- [alacritty](https://github.com/alacritty/alacritty) — A cross-platform, GPU enhanced terminal emulator
+- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with syntax highlighting and Git integration.
+- [chrono](https://github.com/chronotope/chrono) - Date and time library for Rust.
+- [clap](https://github.com/clap-rs/clap) - A simple to use, full-featured Command Line Argument Parser for Rust.
+- [diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust.
+- [dioxus](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, and more.
+- [fake-rs](https://github.com/cksac/fake-rs) - A library for generating fake data.
+- [Foundry](https://github.com/foundry-rs/foundry) — Foundry is a blazing fast, portable and modular toolkit for Ethereum application development.
+- [Fuchsia OS](https://fuchsia.dev/) - A new open source operating system created at Google.
+- [glium](https://github.com/glium/glium) - Safe OpenGL wrapper for the Rust language.
+- [httparse](https://github.com/seanmonstar/httparse) - A push parser for the HTTP 1.x protocol.
+- [hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust.
+- [image](https://github.com/image-rs/image) - Encoding and decoding images in Rust.
+- [indicatif](https://github.com/mitsuhiko/indicatif) - A command line progress reporting library for Rust.
+- [juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust.
+- [libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
+- [nom](https://github.com/Geal/nom) - A parser combinator library for Rust.
+- [nukesor/comfy-table](https://github.com/nukesor/comfy-table) - Beautiful dynamic tables for your CLI tools.
+- [oxide-auth](https://github.com/HeroicKatora/oxide-auth) — A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends.
+- [Petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
+- [Piston](https://github.com/PistonDevelopers/piston) - A modular open source game engine.
+- [quicli](https://github.com/killercup/quicli) - Quickly build cool CLI apps.
+- [rayon](https://github.com/rayon-rs/rayon) - Data parallelism library for Rust.
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - Line-oriented search tool that recursively searches your current directory for a regex pattern.
+- [Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
+- [rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - Making Rust a first-class language and ecosystem for GPU programming.
+- [Serde](https://github.com/serde-rs/serde) - A framework for serializing and deserializing Rust data structures efficiently and generically.
+- [sled](https://github.com/spacejam/sled) - The champagne of beta embedded databases.
+- [tantivy](https://github.com/tantivy-search/tantivy) - Full-text search engine library inspired by Apache Lucene and written in Rust.
+- [warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds.
