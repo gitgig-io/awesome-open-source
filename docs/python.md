@@ -10,24 +10,24 @@
 - [Dramatiq](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
 - [FastAPI Users](https://github.com/fastapi-users/fastapi-users) - Ready-to-use and customizable users management for FastAPI.
 - [Faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
-- [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching.
+- [fuzzywuzzy](https://github.com/seatgeek/tchefuzz) - Fuzzy String Matching.
 - [HTTPie](https://github.com/httpie/httpie) - Modern command line HTTP client, user-friendly curl alternative.
 - [mrq](https://github.com/pricingassistant/mrq) - Mr. Queue - A distributed worker task queue in Python using Redis & gevent.
-- [p](https://github.com/qw3rtman/p) - Dead simple interactive Python version management.
 - [PeachPy](https://github.com/Maratyszcza/PeachPy) - x86-64 assembler embedded in Python. Can be used as inline assembler for Python or as a stand-alone assembler for Windows, Linux, OS X, Native Client and Go.
 - [Pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy.
 - [Peewee](https://github.com/coleifer/peewee) - A small, expressive ORM.
-- [Poetry](https://python-poetry.org/) - Python dependency management and packaging made easy.
+- [Poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [Pony ORM](https://github.com/ponyorm/pony) - ORM that provides a generator-oriented interface to write database queries.
 - [Pydantic](https://github.com/pydantic/pydantic) - Data validation and settings management using Python type annotations.
-- [pyocr](https://github.com/jflesch/pyocr) - A wrapper for Tesseract and Cuneiform.
+- [pyenv](https://github.com/pyenv/pyenv) - Dead simple interactive Python version management.
 - [pyquery](https://github.com/gawel/pyquery) - A jQuery-like library for parsing HTML.
 - [Pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch.
+- [pytesseract](https://github.com/madmaze/pytesseract) - A python wrapper for Tesseract.
 - [Rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [Streamlit](https://github.com/streamlit/streamlit) - Streamlit lets you create apps for your machine learning projects with simple Python scripts.
 - [TinyDB](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document-oriented database optimized for your happiness.
 - [Typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [watchdog](https://github.com/gorakhargosh/watchdog) - API and shell utilities to monitor file system events.
 - [Whoosh](http://whoosh.readthedocs.io/) - A fast, pure Python search engine library.
-- [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python.
+- [Zappa](https://github.com/zappa/Zappa) - Serverless Python.
 - [zeroRPC](https://github.com/0rpc/zerorpc-python) - zerorpc is a flexible RPC implementation based on [ZeroMQ](http://zeromq.org/) and [MessagePack](http://msgpack.org/).
