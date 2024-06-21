@@ -7,6 +7,14 @@ A curated list of open source projects by language.
 - [Python](docs/python.md)
 - [Rust](docs/rust.md)
 
+## What is GitGig?
+
+[GitGig](https://gitgig.io/) is a platform designed to help developers monetize their open-source contributions and 
+project maintainers clear their backlog of open issues. It provides a [marketplace](https://app.gitgig.io/) where 
+developers can earn bounties working on open source projects and showcase their skills. By facilitating these 
+connections, GitGig aims to empower developers to turn their passion for open-source work into a sustainable
+income, fostering a supportive and thriving open-source community.
+
 ## Contributing
 
 - Follow the format of the pages in this repo. See `Elixir` for an example.
